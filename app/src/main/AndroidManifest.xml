@@ -12,15 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ProjAtividadeJSON">
         <activity
-            android:name=".ui.AlbumsActivity"
-            android:exported="true" />
-        <activity
-            android:name=".ui.PostsActivity"
-            android:exported="true" />
-        <activity
-            android:name=".ui.TodosActivity"
-            android:exported="true" />
-        <activity
             android:name=".ui.MainActivity"
             android:exported="true" />
         <activity

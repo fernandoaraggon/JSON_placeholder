@@ -4,10 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_albums.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_detalhe_albums.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_detalhe_posts.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_detalhe_todo.xml" value="0.15715579710144928" />
         <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_main.xml" value="0.152" />
         <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_posts.xml" value="0.1766304347826087" />
         <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_splash.xml" value="0.2" />
         <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/activity_todos.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/albums_layout.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/json_layout.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/posts_layout.xml" value="0.4" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/ProjAtividadeJSON/app/src/main/res/layout/todo_layout.xml" value="0.1503623188405797" />
       </map>
     </option>
   </component>
